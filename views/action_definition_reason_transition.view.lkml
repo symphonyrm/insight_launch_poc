@@ -1,5 +1,4 @@
 view: action_definition_reason_transition {
-  sql_table_name: proh_symphony.action_definition_reason_transition ;;
   drill_fields: [id]
 
   dimension: id {

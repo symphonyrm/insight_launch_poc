@@ -1,5 +1,4 @@
 view: sequence_data {
-  sql_table_name: proh_symphony.sequence_data ;;
 
   dimension: sequence_cur_value {
     type: number

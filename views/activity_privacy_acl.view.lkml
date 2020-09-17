@@ -1,5 +1,4 @@
 view: activity_privacy_acl {
-  sql_table_name: proh_symphony.activity_privacy_acl ;;
   drill_fields: [id]
 
   dimension: id {

@@ -1,5 +1,4 @@
 view: preference_definition {
-  sql_table_name: proh_symphony.preference_definition ;;
   drill_fields: [id]
 
   dimension: id {

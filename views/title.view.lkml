@@ -1,5 +1,4 @@
 view: title {
-  sql_table_name: proh_symphony.title ;;
   drill_fields: [id]
 
   dimension: id {

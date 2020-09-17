@@ -1,5 +1,4 @@
 view: campaign {
-  sql_table_name: proh_symphony.campaign ;;
   drill_fields: [id]
 
   dimension: id {

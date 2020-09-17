@@ -1,5 +1,4 @@
 view: address {
-  sql_table_name: proh_symphony.address ;;
   drill_fields: [id]
 
   dimension: id {

@@ -1,5 +1,4 @@
 view: campaign_person_state_definition {
-  sql_table_name: proh_symphony.campaign_person_state_definition ;;
   drill_fields: [id]
 
   dimension: id {

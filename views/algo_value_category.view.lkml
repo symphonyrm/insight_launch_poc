@@ -1,5 +1,4 @@
 view: algo_value_category {
-  sql_table_name: proh_symphony.algo_value_category ;;
   drill_fields: [id]
 
   dimension: id {

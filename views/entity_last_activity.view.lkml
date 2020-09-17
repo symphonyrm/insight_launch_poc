@@ -1,5 +1,4 @@
 view: entity_last_activity {
-  sql_table_name: proh_symphony.entity_last_activity ;;
   drill_fields: [id]
 
   dimension: id {

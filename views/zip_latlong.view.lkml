@@ -1,5 +1,4 @@
 view: zip_latlong {
-  sql_table_name: proh_symphony.zip_latlong ;;
 
   dimension: city {
     type: string

@@ -1,5 +1,4 @@
 view: referral {
-  sql_table_name: proh_symphony.referral ;;
   drill_fields: [id]
 
   dimension: id {

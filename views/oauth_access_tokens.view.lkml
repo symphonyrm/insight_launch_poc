@@ -1,5 +1,4 @@
 view: oauth_access_tokens {
-  sql_table_name: proh_symphony.oauth_access_tokens ;;
   drill_fields: [id]
 
   dimension: id {

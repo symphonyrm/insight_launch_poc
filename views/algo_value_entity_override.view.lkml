@@ -1,5 +1,4 @@
 view: algo_value_entity_override {
-  sql_table_name: proh_symphony.algo_value_entity_override ;;
   drill_fields: [id]
 
   dimension: id {

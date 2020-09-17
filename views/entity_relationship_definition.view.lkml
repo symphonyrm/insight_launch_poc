@@ -1,5 +1,4 @@
 view: entity_relationship_definition {
-  sql_table_name: proh_symphony.entity_relationship_definition ;;
   drill_fields: [id]
 
   dimension: id {

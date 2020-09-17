@@ -1,5 +1,4 @@
 view: mas_link {
-  sql_table_name: proh_symphony.mas_link ;;
   drill_fields: [id]
 
   dimension: id {

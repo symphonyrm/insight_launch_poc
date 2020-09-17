@@ -1,5 +1,4 @@
 view: person_name_hash {
-  sql_table_name: proh_symphony.person_name_hash ;;
 
   dimension: name_hash {
     type: number

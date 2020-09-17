@@ -1,5 +1,4 @@
 view: attribute_definition {
-  sql_table_name: proh_symphony.attribute_definition ;;
   drill_fields: [id]
 
   dimension: id {

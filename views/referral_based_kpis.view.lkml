@@ -1,5 +1,4 @@
 view: referral_based_kpis {
-  sql_table_name: proh_symphony.referral_based_kpis ;;
   drill_fields: [id]
 
   dimension: id {

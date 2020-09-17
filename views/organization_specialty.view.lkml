@@ -1,5 +1,4 @@
 view: organization_specialty {
-  sql_table_name: proh_symphony.organization_specialty ;;
   drill_fields: [id]
 
   dimension: id {

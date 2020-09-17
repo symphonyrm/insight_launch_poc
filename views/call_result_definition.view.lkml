@@ -1,5 +1,4 @@
 view: call_result_definition {
-  sql_table_name: proh_symphony.call_result_definition ;;
   drill_fields: [id]
 
   dimension: id {

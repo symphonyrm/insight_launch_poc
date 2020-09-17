@@ -1,5 +1,4 @@
 view: person_type_definition {
-  sql_table_name: proh_symphony.person_type_definition ;;
   drill_fields: [id]
 
   dimension: id {

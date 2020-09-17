@@ -1,5 +1,4 @@
 view: problem_code {
-  sql_table_name: proh_symphony.problem_code ;;
   drill_fields: [id]
 
   dimension: id {

@@ -1,5 +1,4 @@
 view: entity_value_override {
-  sql_table_name: proh_symphony.entity_value_override ;;
   drill_fields: [id]
 
   dimension: id {

@@ -1,5 +1,4 @@
 view: algo_priority_activity_patient {
-  sql_table_name: proh_symphony.algo_priority_activity_patient ;;
   drill_fields: [id]
 
   dimension: id {

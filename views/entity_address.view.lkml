@@ -1,5 +1,4 @@
 view: entity_address {
-  sql_table_name: proh_symphony.entity_address ;;
   drill_fields: [id]
 
   dimension: id {

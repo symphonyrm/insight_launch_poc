@@ -1,5 +1,4 @@
 view: group_tag_permission {
-  sql_table_name: proh_symphony.group_tag_permission ;;
   drill_fields: [id]
 
   dimension: id {

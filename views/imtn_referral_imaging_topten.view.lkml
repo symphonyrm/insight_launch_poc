@@ -1,5 +1,4 @@
 view: imtn_referral_imaging_topten {
-  sql_table_name: proh_symphony.imtn_referral_imaging_topten ;;
   drill_fields: [id]
 
   dimension: id {

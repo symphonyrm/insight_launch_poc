@@ -1,5 +1,4 @@
 view: flyway_schema_history {
-  sql_table_name: proh_symphony.flyway_schema_history ;;
 
   dimension: checksum {
     type: number

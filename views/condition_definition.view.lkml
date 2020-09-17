@@ -1,5 +1,4 @@
 view: condition_definition {
-  sql_table_name: proh_symphony.condition_definition ;;
   drill_fields: [id]
 
   dimension: id {

@@ -1,5 +1,4 @@
 view: payer_ims {
-  sql_table_name: proh_symphony.payer_ims ;;
   drill_fields: [id]
 
   dimension: id {

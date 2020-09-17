@@ -1,5 +1,4 @@
 view: activity_mas_asset {
-  sql_table_name: proh_symphony.activity_mas_asset ;;
   drill_fields: [id]
 
   dimension: id {

@@ -1,5 +1,4 @@
 view: entity_client_key {
-  sql_table_name: proh_symphony.entity_client_key ;;
   drill_fields: [id]
 
   dimension: id {

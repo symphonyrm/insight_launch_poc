@@ -1,5 +1,4 @@
 view: patient_condition {
-  sql_table_name: proh_symphony.patient_condition ;;
   drill_fields: [id]
 
   dimension: id {

@@ -1,5 +1,4 @@
 view: person_specialty {
-  sql_table_name: proh_symphony.person_specialty ;;
   drill_fields: [id]
 
   dimension: id {

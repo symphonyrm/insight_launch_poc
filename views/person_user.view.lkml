@@ -1,5 +1,4 @@
 view: person_user {
-  sql_table_name: proh_symphony.person_user ;;
 
   dimension: activated {
     type: yesno

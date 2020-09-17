@@ -1,5 +1,4 @@
 view: csv_target_source {
-  sql_table_name: proh_symphony.csv_target_source ;;
   drill_fields: [id]
 
   dimension: id {

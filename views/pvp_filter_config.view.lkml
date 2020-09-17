@@ -1,5 +1,4 @@
 view: pvp_filter_config {
-  sql_table_name: proh_symphony.pvp_filter_config ;;
   drill_fields: [id]
 
   dimension: id {

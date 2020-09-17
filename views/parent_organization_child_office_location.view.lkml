@@ -1,5 +1,4 @@
 view: parent_organization_child_office_location {
-  sql_table_name: proh_symphony.parent_organization_child_office_location ;;
 
   dimension: child_office_location_id {
     type: number

@@ -1,5 +1,4 @@
 view: dpv_match_code {
-  sql_table_name: proh_symphony.dpv_match_code ;;
   drill_fields: [id]
 
   dimension: id {

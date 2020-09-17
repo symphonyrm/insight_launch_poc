@@ -1,5 +1,4 @@
 view: contact_validity_source {
-  sql_table_name: proh_symphony.contact_validity_source ;;
   drill_fields: [id]
 
   dimension: id {

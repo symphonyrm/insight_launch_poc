@@ -1,5 +1,4 @@
 view: permission_definition {
-  sql_table_name: proh_symphony.permission_definition ;;
   drill_fields: [id]
 
   dimension: id {

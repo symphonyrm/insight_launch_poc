@@ -1,5 +1,4 @@
 view: algo_type {
-  sql_table_name: proh_symphony.algo_type ;;
   drill_fields: [id]
 
   dimension: id {

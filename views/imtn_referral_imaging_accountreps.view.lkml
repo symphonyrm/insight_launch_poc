@@ -1,5 +1,4 @@
 view: imtn_referral_imaging_accountreps {
-  sql_table_name: proh_symphony.imtn_referral_imaging_accountreps ;;
   drill_fields: [id]
 
   dimension: id {

@@ -1,5 +1,4 @@
 view: activity_compensation {
-  sql_table_name: proh_symphony.activity_compensation ;;
 
   dimension: activity_id {
     type: number

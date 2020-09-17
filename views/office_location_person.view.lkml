@@ -1,5 +1,4 @@
 view: office_location_person {
-  sql_table_name: proh_symphony.office_location_person ;;
 
   dimension: office_location_id {
     type: number

@@ -1,5 +1,4 @@
 view: record_type {
-  sql_table_name: proh_symphony.record_type ;;
   drill_fields: [id]
 
   dimension: id {

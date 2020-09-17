@@ -1,5 +1,4 @@
 view: insurance_plan {
-  sql_table_name: proh_symphony.insurance_plan ;;
   drill_fields: [id]
 
   dimension: id {

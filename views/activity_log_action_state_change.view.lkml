@@ -1,5 +1,4 @@
 view: activity_log_action_state_change {
-  sql_table_name: proh_symphony.activity_log_action_state_change ;;
   drill_fields: [id]
 
   dimension: id {

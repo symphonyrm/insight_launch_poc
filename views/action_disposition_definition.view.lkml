@@ -1,5 +1,4 @@
 view: action_disposition_definition {
-  sql_table_name: proh_symphony.action_disposition_definition ;;
   drill_fields: [id]
 
   dimension: id {

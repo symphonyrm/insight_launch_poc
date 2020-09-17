@@ -1,5 +1,4 @@
 view: sync_definition {
-  sql_table_name: proh_symphony.sync_definition ;;
   drill_fields: [id]
 
   dimension: id {

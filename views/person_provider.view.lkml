@@ -1,5 +1,4 @@
 view: person_provider {
-  sql_table_name: proh_symphony.person_provider ;;
 
   dimension: certifications {
     type: string

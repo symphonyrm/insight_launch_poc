@@ -1,5 +1,4 @@
 view: insight_embed_content {
-  sql_table_name: proh_symphony.insight_embed_content ;;
   drill_fields: [id]
 
   dimension: id {

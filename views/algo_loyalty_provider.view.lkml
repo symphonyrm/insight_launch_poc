@@ -1,5 +1,4 @@
 view: algo_loyalty_provider {
-  sql_table_name: proh_symphony.algo_loyalty_provider ;;
   drill_fields: [id]
 
   dimension: id {

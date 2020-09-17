@@ -1,5 +1,4 @@
 view: clinical {
-  sql_table_name: proh_symphony.clinical ;;
   drill_fields: [id]
 
   dimension: id {

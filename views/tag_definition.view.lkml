@@ -1,5 +1,4 @@
 view: tag_definition {
-  sql_table_name: proh_symphony.tag_definition ;;
   drill_fields: [id]
 
   dimension: id {

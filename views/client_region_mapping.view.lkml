@@ -1,5 +1,4 @@
 view: client_region_mapping {
-  sql_table_name: proh_symphony.client_region_mapping ;;
   drill_fields: [id]
 
   dimension: id {

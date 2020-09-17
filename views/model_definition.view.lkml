@@ -1,5 +1,4 @@
 view: model_definition {
-  sql_table_name: proh_symphony.model_definition ;;
   drill_fields: [id]
 
   dimension: id {

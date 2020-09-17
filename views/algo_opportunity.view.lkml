@@ -1,5 +1,4 @@
 view: algo_opportunity {
-  sql_table_name: proh_symphony.algo_opportunity ;;
   drill_fields: [id]
 
   dimension: id {

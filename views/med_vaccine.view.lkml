@@ -1,5 +1,4 @@
 view: med_vaccine {
-  sql_table_name: proh_symphony.med_vaccine ;;
 
   dimension: admin_qty {
     type: string

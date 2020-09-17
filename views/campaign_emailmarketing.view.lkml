@@ -1,5 +1,4 @@
 view: campaign_emailmarketing {
-  sql_table_name: proh_symphony.campaign_emailmarketing ;;
   drill_fields: [id]
 
   dimension: id {

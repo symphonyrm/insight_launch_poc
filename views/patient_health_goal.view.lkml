@@ -1,5 +1,4 @@
 view: patient_health_goal {
-  sql_table_name: proh_symphony.patient_health_goal ;;
   drill_fields: [id]
 
   dimension: id {

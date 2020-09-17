@@ -1,5 +1,4 @@
 view: appointment {
-  sql_table_name: proh_symphony.appointment ;;
   drill_fields: [id]
 
   dimension: id {

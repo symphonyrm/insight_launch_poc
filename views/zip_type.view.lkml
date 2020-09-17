@@ -1,5 +1,4 @@
 view: zip_type {
-  sql_table_name: proh_symphony.zip_type ;;
   drill_fields: [id]
 
   dimension: id {

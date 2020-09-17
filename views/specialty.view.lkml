@@ -1,5 +1,4 @@
 view: specialty {
-  sql_table_name: proh_symphony.specialty ;;
   drill_fields: [cms_specialty_id]
 
   dimension: cms_specialty_id {

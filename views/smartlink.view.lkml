@@ -1,5 +1,4 @@
 view: smartlink {
-  sql_table_name: proh_symphony.smartlink ;;
   drill_fields: [id]
 
   dimension: id {

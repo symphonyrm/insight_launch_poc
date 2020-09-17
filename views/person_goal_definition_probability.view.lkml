@@ -1,5 +1,4 @@
 view: person_goal_definition_probability {
-  sql_table_name: proh_symphony.person_goal_definition_probability ;;
   drill_fields: [id]
 
   dimension: id {

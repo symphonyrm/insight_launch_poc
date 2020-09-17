@@ -1,5 +1,4 @@
 view: lead_source {
-  sql_table_name: proh_symphony.lead_source ;;
   drill_fields: [id]
 
   dimension: id {

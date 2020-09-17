@@ -1,5 +1,4 @@
 view: knowledge_connector_url {
-  sql_table_name: proh_symphony.knowledge_connector_url ;;
   drill_fields: [id]
 
   dimension: id {

@@ -1,5 +1,4 @@
 view: person_patient {
-  sql_table_name: proh_symphony.person_patient ;;
 
   dimension: client_account_id {
     type: string

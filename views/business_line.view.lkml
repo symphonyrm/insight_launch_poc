@@ -1,5 +1,4 @@
 view: business_line {
-  sql_table_name: proh_symphony.business_line ;;
   drill_fields: [id]
 
   dimension: id {

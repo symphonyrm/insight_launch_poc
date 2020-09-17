@@ -1,5 +1,4 @@
 view: attachment {
-  sql_table_name: proh_symphony.attachment ;;
   drill_fields: [id]
 
   dimension: id {

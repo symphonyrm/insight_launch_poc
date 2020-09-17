@@ -1,5 +1,4 @@
 view: contact {
-  sql_table_name: proh_symphony.contact ;;
   drill_fields: [id]
 
   dimension: id {

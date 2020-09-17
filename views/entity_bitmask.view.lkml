@@ -1,5 +1,4 @@
 view: entity_bitmask {
-  sql_table_name: proh_symphony.entity_bitmask ;;
   drill_fields: [id]
 
   dimension: id {

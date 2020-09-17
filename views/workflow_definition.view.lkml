@@ -1,5 +1,4 @@
 view: workflow_definition {
-  sql_table_name: proh_symphony.workflow_definition ;;
   drill_fields: [id]
 
   dimension: id {

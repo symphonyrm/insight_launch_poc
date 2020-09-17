@@ -1,5 +1,4 @@
 view: map_elgg_symphony {
-  sql_table_name: proh_symphony.map_elgg_symphony ;;
   drill_fields: [id]
 
   dimension: id {

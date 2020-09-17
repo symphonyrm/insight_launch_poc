@@ -1,5 +1,4 @@
 view: twilio_flow {
-  sql_table_name: proh_symphony.twilio_flow ;;
   drill_fields: [id]
 
   dimension: id {

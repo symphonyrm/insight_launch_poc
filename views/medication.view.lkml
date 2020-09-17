@@ -1,5 +1,4 @@
 view: medication {
-  sql_table_name: proh_symphony.medication ;;
   drill_fields: [id]
 
   dimension: id {

@@ -1,5 +1,4 @@
 view: audience {
-  sql_table_name: proh_symphony.audience ;;
   drill_fields: [id]
 
   dimension: id {

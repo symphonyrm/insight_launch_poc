@@ -1,5 +1,4 @@
 view: activity_person_removed_from_campaign {
-  sql_table_name: proh_symphony.activity_person_removed_from_campaign ;;
 
   dimension: activity_id {
     type: number

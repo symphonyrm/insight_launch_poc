@@ -1,5 +1,4 @@
 view: notification {
-  sql_table_name: proh_symphony.notification ;;
   drill_fields: [id]
 
   dimension: id {

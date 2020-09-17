@@ -1,5 +1,4 @@
 view: mas_template {
-  sql_table_name: proh_symphony.mas_template ;;
   drill_fields: [id]
 
   dimension: id {

@@ -1,5 +1,4 @@
 view: person_probability {
-  sql_table_name: proh_symphony.person_probability ;;
   drill_fields: [id]
 
   dimension: id {

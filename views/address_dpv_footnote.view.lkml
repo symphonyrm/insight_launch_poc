@@ -1,5 +1,4 @@
 view: address_dpv_footnote {
-  sql_table_name: proh_symphony.address_dpv_footnote ;;
   drill_fields: [id]
 
   dimension: id {

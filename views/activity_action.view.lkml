@@ -1,5 +1,4 @@
 view: activity_action {
-  sql_table_name: proh_symphony.activity_action ;;
 
   dimension: action_type {
     type: string

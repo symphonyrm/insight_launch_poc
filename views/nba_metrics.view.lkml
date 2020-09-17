@@ -1,5 +1,4 @@
 view: nba_metrics {
-  sql_table_name: proh_symphony.nba_metrics ;;
   drill_fields: [id]
 
   dimension: id {

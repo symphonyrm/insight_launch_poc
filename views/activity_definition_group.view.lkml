@@ -1,5 +1,4 @@
 view: activity_definition_group {
-  sql_table_name: proh_symphony.activity_definition_group ;;
 
   dimension: activity_definition_group_definition_id {
     type: number

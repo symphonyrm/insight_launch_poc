@@ -1,5 +1,4 @@
 view: activity_action_instance {
-  sql_table_name: proh_symphony.activity_action_instance ;;
 
   dimension: action_id {
     type: number

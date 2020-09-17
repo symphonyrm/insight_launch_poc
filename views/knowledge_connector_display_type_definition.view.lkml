@@ -1,5 +1,4 @@
 view: knowledge_connector_display_type_definition {
-  sql_table_name: proh_symphony.knowledge_connector_display_type_definition ;;
   drill_fields: [id]
 
   dimension: id {

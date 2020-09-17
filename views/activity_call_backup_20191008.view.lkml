@@ -1,5 +1,4 @@
 view: activity_call_backup_20191008 {
-  sql_table_name: proh_symphony.activity_call_backup_20191008 ;;
 
   dimension: activity_id {
     type: number

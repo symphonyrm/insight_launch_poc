@@ -1,5 +1,4 @@
 view: nppes_basic {
-  sql_table_name: proh_symphony.nppes_basic ;;
 
   dimension: ein {
     type: string

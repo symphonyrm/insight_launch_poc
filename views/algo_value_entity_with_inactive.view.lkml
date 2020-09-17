@@ -1,5 +1,4 @@
 view: algo_value_entity_with_inactive {
-  sql_table_name: proh_symphony.algo_value_entity_with_inactive ;;
   drill_fields: [id]
 
   dimension: id {

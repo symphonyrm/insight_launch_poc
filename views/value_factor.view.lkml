@@ -1,5 +1,4 @@
 view: value_factor {
-  sql_table_name: proh_symphony.value_factor ;;
   drill_fields: [id]
 
   dimension: id {

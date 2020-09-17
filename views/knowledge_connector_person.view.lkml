@@ -1,5 +1,4 @@
 view: knowledge_connector_person {
-  sql_table_name: proh_symphony.knowledge_connector_person ;;
   drill_fields: [id]
 
   dimension: id {

@@ -1,5 +1,4 @@
 view: person_model_score {
-  sql_table_name: proh_symphony.person_model_score ;;
   drill_fields: [id]
 
   dimension: id {

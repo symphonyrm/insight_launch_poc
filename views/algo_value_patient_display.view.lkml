@@ -1,5 +1,4 @@
 view: algo_value_patient_display {
-  sql_table_name: proh_symphony.algo_value_patient_display ;;
   drill_fields: [id]
 
   dimension: id {

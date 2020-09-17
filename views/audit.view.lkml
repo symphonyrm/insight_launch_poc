@@ -1,5 +1,4 @@
 view: audit {
-  sql_table_name: proh_symphony.audit ;;
   drill_fields: [id]
 
   dimension: id {

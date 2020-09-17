@@ -1,5 +1,4 @@
 view: oauth_clients {
-  sql_table_name: proh_symphony.oauth_clients ;;
 
   dimension: client_id {
     type: string

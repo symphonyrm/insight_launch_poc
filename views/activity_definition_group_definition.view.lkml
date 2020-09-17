@@ -1,5 +1,4 @@
 view: activity_definition_group_definition {
-  sql_table_name: proh_symphony.activity_definition_group_definition ;;
   drill_fields: [id]
 
   dimension: id {

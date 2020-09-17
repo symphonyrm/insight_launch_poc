@@ -1,5 +1,4 @@
 view: client_key_alias {
-  sql_table_name: proh_symphony.client_key_alias ;;
   drill_fields: [id]
 
   dimension: id {

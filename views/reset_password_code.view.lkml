@@ -1,5 +1,4 @@
 view: reset_password_code {
-  sql_table_name: proh_symphony.reset_password_code ;;
   drill_fields: [id]
 
   dimension: id {

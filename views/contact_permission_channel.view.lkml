@@ -1,5 +1,4 @@
 view: contact_permission_channel {
-  sql_table_name: proh_symphony.contact_permission_channel ;;
   drill_fields: [id]
 
   dimension: id {

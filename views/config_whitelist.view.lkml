@@ -1,5 +1,4 @@
 view: config_whitelist {
-  sql_table_name: proh_symphony.config_whitelist ;;
   drill_fields: [id]
 
   dimension: id {

@@ -1,5 +1,4 @@
 view: med_prescription {
-  sql_table_name: proh_symphony.med_prescription ;;
 
   dimension_group: created {
     type: time

@@ -1,5 +1,4 @@
 view: user_permission {
-  sql_table_name: proh_symphony.user_permission ;;
   drill_fields: [id]
 
   dimension: id {

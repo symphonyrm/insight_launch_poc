@@ -1,5 +1,4 @@
 view: broadcast {
-  sql_table_name: proh_symphony.broadcast ;;
   drill_fields: [id]
 
   dimension: id {

@@ -1,5 +1,4 @@
 view: config {
-  sql_table_name: proh_symphony.config ;;
   drill_fields: [id]
 
   dimension: id {

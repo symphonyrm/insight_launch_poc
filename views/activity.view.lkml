@@ -1,5 +1,4 @@
 view: activity {
-  sql_table_name: proh_symphony.activity ;;
   drill_fields: [id]
 
   dimension: id {

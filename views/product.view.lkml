@@ -1,5 +1,4 @@
 view: product {
-  sql_table_name: proh_symphony.product ;;
   drill_fields: [id]
 
   dimension: id {

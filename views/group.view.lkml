@@ -1,5 +1,4 @@
 view: group {
-  sql_table_name: proh_symphony.`group` ;;
   drill_fields: [id]
 
   dimension: id {

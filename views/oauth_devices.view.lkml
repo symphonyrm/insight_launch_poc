@@ -1,5 +1,4 @@
 view: oauth_devices {
-  sql_table_name: proh_symphony.oauth_devices ;;
   drill_fields: [id]
 
   dimension: id {

@@ -1,5 +1,4 @@
 view: target_status_definition {
-  sql_table_name: proh_symphony.target_status_definition ;;
   drill_fields: [id]
 
   dimension: id {

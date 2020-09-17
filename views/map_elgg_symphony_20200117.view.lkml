@@ -1,5 +1,4 @@
 view: map_elgg_symphony_20200117 {
-  sql_table_name: proh_symphony.map_elgg_symphony_20200117 ;;
   drill_fields: [id]
 
   dimension: id {

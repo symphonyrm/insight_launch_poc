@@ -1,5 +1,4 @@
 view: health_goal_definition {
-  sql_table_name: proh_symphony.health_goal_definition ;;
   drill_fields: [id]
 
   dimension: id {

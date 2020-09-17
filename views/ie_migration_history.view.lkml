@@ -1,5 +1,4 @@
 view: ie_migration_history {
-  sql_table_name: proh_symphony.ie_migration_history ;;
 
   dimension: affected_table {
     type: string

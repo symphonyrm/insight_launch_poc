@@ -1,5 +1,4 @@
 view: referral_athena_factor {
-  sql_table_name: proh_symphony.referral_athena_factor ;;
   drill_fields: [id]
 
   dimension: id {

@@ -1,5 +1,4 @@
 view: column_point_value {
-  sql_table_name: proh_symphony.column_point_value ;;
 
   dimension: column_name {
     type: string

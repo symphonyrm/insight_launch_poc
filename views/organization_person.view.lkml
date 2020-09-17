@@ -1,5 +1,4 @@
 view: organization_person {
-  sql_table_name: proh_symphony.organization_person ;;
 
   dimension: parent_organization_id {
     type: number

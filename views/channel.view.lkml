@@ -1,5 +1,4 @@
 view: channel {
-  sql_table_name: proh_symphony.channel ;;
   drill_fields: [id]
 
   dimension: id {

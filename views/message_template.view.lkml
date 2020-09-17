@@ -1,5 +1,4 @@
 view: message_template {
-  sql_table_name: proh_symphony.message_template ;;
   drill_fields: [id]
 
   dimension: id {

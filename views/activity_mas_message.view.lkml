@@ -1,5 +1,4 @@
 view: activity_mas_message {
-  sql_table_name: proh_symphony.activity_mas_message ;;
 
   dimension: activity_id {
     type: number

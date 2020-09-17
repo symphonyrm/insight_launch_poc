@@ -1,5 +1,4 @@
 view: activity_log_goal_source_event {
-  sql_table_name: proh_symphony.activity_log_goal_source_event ;;
   drill_fields: [id]
 
   dimension: id {

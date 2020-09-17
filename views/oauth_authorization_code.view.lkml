@@ -1,5 +1,4 @@
 view: oauth_authorization_code {
-  sql_table_name: proh_symphony.oauth_authorization_code ;;
   drill_fields: [id]
 
   dimension: id {

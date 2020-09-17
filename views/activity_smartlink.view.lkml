@@ -1,5 +1,4 @@
 view: activity_smartlink {
-  sql_table_name: proh_symphony.activity_smartlink ;;
   drill_fields: [id]
 
   dimension: id {
