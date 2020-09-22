@@ -10,7 +10,7 @@ explore: schema_table_search {
 
 view: schema_table_search {
   derived_table: {
-    sql: SELECT table_schema, table_name, column_name, data_type, comment FROM INFORMATION_SCHEMA.COLUMNS
+    sql: SELECT table_schema, table_name, column_name, data_type, column_comment FROM INFORMATION_SCHEMA.COLUMNS
             WHERE   table_schema = '{% parameter table_schema_input %}'
               AND   table_name = '{% parameter table_name_input %}'
           ORDER BY column_name ASC
