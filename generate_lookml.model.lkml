@@ -12,7 +12,7 @@ view: schema_table_search {
   derived_table: {
     sql: SELECT table_schema, table_name, column_name, data_type, column_comment FROM INFORMATION_SCHEMA.COLUMNS
             WHERE   table_schema = '{% parameter table_schema_input %}'
-              AND   table_name = '{% parameter table_name_input %}'
+            AND   table_name = '{% parameter table_name_input %}'
           ORDER BY column_name ASC
  ;;
   }
@@ -23,22 +23,22 @@ view: schema_table_search {
 
   dimension: table_schema {
     type: string
-    sql: ${TABLE}."TABLE_SCHEMA" ;;
+    sql: ${TABLE}.`TABLE_SCHEMA` ;;
   }
 
   dimension: table_name {
     type: string
-    sql: ${TABLE}."TABLE_NAME" ;;
+    sql: ${TABLE}.`TABLE_NAME` ;;
   }
 
   dimension: column_name {
     type: string
-    sql: ${TABLE}."COLUMN_NAME" ;;
+    sql: ${TABLE}.`COLUMN_NAME` ;;
   }
 
   dimension: data_type {
     type: string
-    sql: ${TABLE}."DATA_TYPE" ;;
+    sql: ${TABLE}.`DATA_TYPE` ;;
   }
 
   dimension: type_convert {
@@ -57,7 +57,7 @@ view: schema_table_search {
 
   dimension: comment {
     type: string
-    sql: ${TABLE}."COMMENT" ;;
+    sql: ${TABLE}.`COMMENT` ;;
   }
 
   set: required {
