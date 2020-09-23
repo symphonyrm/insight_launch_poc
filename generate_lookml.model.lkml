@@ -57,7 +57,7 @@ view: schema_table_search {
 
   dimension: comment {
     type: string
-    sql: ${TABLE}.`COMMENT` ;;
+    sql: ${TABLE}.`COLUMN_COMMENT` ;;
   }
 
   set: required {
