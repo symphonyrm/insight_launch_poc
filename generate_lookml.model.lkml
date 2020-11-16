@@ -18,6 +18,8 @@ view: schema_table_search {
   }
 
 
+
+
   parameter: table_schema_input {type: unquoted}
   parameter: table_name_input {type: unquoted}
 
