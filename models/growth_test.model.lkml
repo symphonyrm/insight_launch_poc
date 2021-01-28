@@ -1,1 +1,0 @@
-connection: "growth_test"
